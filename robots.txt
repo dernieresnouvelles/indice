@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dernieresnouvelles.github.io/indice/sitemap.xml
